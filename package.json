@@ -1,0 +1,10 @@
+{
+  "name": "express-propelauth-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@propelauth/express": "^1.2.2",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2"
+  }
+}
